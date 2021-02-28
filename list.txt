@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Zhukov Nikita Sergeevich
+=======
+Dina Rusinova
+>>>>>>> feature/listDina
